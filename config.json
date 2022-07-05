@@ -1,20 +1,20 @@
 {
-    "ownerNumber": "6285921969852@s.whatsapp.net",
-    "ownerName": "Fadly ID",
-    "botName": "Kaysa Bot",
-    "footer": "Fadly ID",
+    "ownerNumber": "18254857668@s.whatsapp.net",
+    "ownerName": "DZ STORE",
+    "botName": "AFABOTZ",
+    "footer": "AFA",
     "sessionName": "kayy-md",
     "pathimg": "./media/logo.jpg",
     "lolkey": "Atakbotz",
-    "instagram": "https://instagram.com/iamfadlyid_",
+    "instagram": "https://instagram.com/dhilzz.storee",
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
-        "prem": 35,
+        "prem": 9999,
         "user": 15
     },
     "sticker": {
         "packname": "Created By",
-        "author": "Fadly ID"
+        "author": "AFAXD"
     }
 }
